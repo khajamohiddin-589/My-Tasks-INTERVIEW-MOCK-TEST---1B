@@ -1,0 +1,19 @@
+.tag-button {
+  border: 1px solid #f3aa4e;
+  color: white;
+  font-size: 18px;
+  font-family: 'Roboto';
+  font-weight: 500;
+  background-color: transparent;
+  height: 40px;
+  width: 130px;
+  border-radius: 20px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+.new-button {
+  border: 0px solid white;
+  background-color: #f3aa4e;
+  color: white;
+}
